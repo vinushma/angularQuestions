@@ -36,4 +36,31 @@
 4. Difference betweeen the Observables vs Promises ?
 5. Difference betweeen the Pure Pipes vs Impure Pipes ?
 6. Difference betweeen the Template Driven Forms vs Reactive forms ?
+6. Difference betweeen the Subject vs Behavioural Subject ?
+</pre>
+
+# Javascript Questions
+<pre>
+1. What is Closure?
+2. What is Hoisting?
+3. What is EventBubling?
+4. What is EventPropagation?
+5. What is Immediatly Invoked Function?
+6. What is Higher order Function?
+7. What is Destructuring ?
+
+</pre>
+
+# Programming Questions
+<pre>
+1. Program as below,
+// my name is vinushma
+// myNameIsVinusha
+2. Program to find given two strings are Anagram or not ?
+3. Program to check if the string is palindrome or not
+4. Count vowels in  "aeioaaaaa" ?
+5. Remove duplicates from the Array
+const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
+6. Remove duplicates from the String
+let x = "hellooosssllkkk";
 </pre>
