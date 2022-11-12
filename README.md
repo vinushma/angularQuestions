@@ -36,7 +36,9 @@
 4. Difference betweeen the Observables vs Promises ?
 5. Difference betweeen the Pure Pipes vs Impure Pipes ?
 6. Difference betweeen the Template Driven Forms vs Reactive forms ?
-6. Difference betweeen the Subject vs Behavioural Subject ?
+7. Difference betweeen the Subject vs Behavioural Subject ?
+8. Difference betweeen the ViewChild vs ViewChildren ?
+9. Difference betweeen the contentChild vs contentChildren ?
 </pre>
 
 # Javascript Questions
@@ -48,6 +50,7 @@
 5. What is Immediatly Invoked Function?
 6. What is Higher order Function?
 7. What is Destructuring ?
+8. What is EventLooping ?
 
 </pre>
 
@@ -63,4 +66,6 @@
 const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
 6. Remove duplicates from the String
 let x = "hellooosssllkkk";
+7. Get the count of the Duplicates in the string?
+let x = "hellooosssllkkk"; otp: [o:3,s:3,l:2,k:3]
 </pre>
