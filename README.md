@@ -61,6 +61,7 @@
 10. What is call,aplly,bind ?
 11. Difference btw find & filter ?
 12. What is map,filter,reduce ?
+13. What are first class functions ?
 
 </pre>
 
