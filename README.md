@@ -24,6 +24,10 @@
 22. What is Single Page Application(SPA)?
 23. What is Shared Module?
 24. What is Dependency Injection?
+25. What is ZoneJS ?
+26. How to do you improve the performance of the Angular application ?
+27. What are directives & Custome Directives ?
+
 
 
 
@@ -39,6 +43,7 @@
 7. Difference betweeen the Subject vs Behavioural Subject ?
 8. Difference betweeen the ViewChild vs ViewChildren ?
 9. Difference betweeen the contentChild vs contentChildren ?
+10. Difference betweeen the canActivate vs canDeactive ?
 </pre>
 
 # Javascript Questions
