@@ -62,15 +62,15 @@
 # Programming Questions
 <pre>
 1. Program as below,
-// my name is vinushma
-// myNameIsVinusha
+  // my name is vinushma
+  // myNameIsVinusha
 2. Program to find given two strings are Anagram or not ?
 3. Program to check if the string is palindrome or not
 4. Count vowels in  "aeioaaaaa" ?
 5. Remove duplicates from the Array
-const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
+   const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
 6. Remove duplicates from the String
-let x = "hellooosssllkkk";
+   let x = "hellooosssllkkk";
 7. Get the count of the Duplicates in the string?
-let x = "hellooosssllkkk"; otp: [o:3,s:3,l:2,k:3]
+   let x = "hellooosssllkkk"; otp: [o:3,s:3,l:2,k:3]
 </pre>
