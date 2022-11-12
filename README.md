@@ -56,6 +56,10 @@
 6. What is Higher order Function?
 7. What is Destructuring ?
 8. What is EventLooping ?
+9. What is Callback ?
+10. What is call,aplly,bind ?
+11. Difference btw find & filter ?
+12. What is map,filter,reduce ?
 
 </pre>
 
