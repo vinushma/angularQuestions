@@ -44,6 +44,7 @@
 8. Difference betweeen the ViewChild vs ViewChildren ?
 9. Difference betweeen the contentChild vs contentChildren ?
 10. Difference betweeen the canActivate vs canDeactive ?
+11. Difference betweeen the Constructor vs OnInit() ?
 </pre>
 
 # Javascript Questions
