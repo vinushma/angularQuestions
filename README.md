@@ -63,6 +63,7 @@
 11. Difference btw find & filter ?
 12. What is map,filter,reduce ?
 13. What are first class functions ?
+14. What is null & undefined in Javascript ?
 
 </pre>
 
