@@ -27,6 +27,7 @@
 25. What is ZoneJS ?
 26. How to do you improve the performance of the Angular application ?
 27. What are directives & Custome Directives ?
+30. What is Digest life cycle in angular?
 
 
 
