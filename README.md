@@ -144,5 +144,6 @@
 4. Linear gradiant?
 5. what is radiant gradiant?
 6. What is precendance over id & class?
+7. What is div transformation?
 
 </pre>
