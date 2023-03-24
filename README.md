@@ -104,7 +104,9 @@
 14. What are pure functions ?
 15. What are arrow functions ?
 16. What are ES6 Features ?
-17. What is map, filter, reduce with examples
+17. What is map, filter, reduce with examples ?
+18. What is Currying ?
+19. Higher order functions vs Currying?
 
 
 </pre>
