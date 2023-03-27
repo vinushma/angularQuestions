@@ -85,6 +85,15 @@
 
 </pre>
 
+# Angular coding Questions
+<pre>
+1. @Input & @output decorators examples?
+2. Regarding Query parameters?
+3. Get the list from database & display based on the search option?
+4. Questions on Angular pipes?
+
+</pre>
+
 # Javascript Questions
 <pre>
 1. What is Closure?
@@ -149,3 +158,5 @@
 7. What is div transformation?
 
 </pre>
+
+
