@@ -31,13 +31,13 @@
 29. What is latest version of Angular ?
 30. How do you improve the performance in angular application ?
 31. What are the security measures taken in Angular?
-32. NgRx or Redux ?
+32. NgRx or Redux /ngRx ?
 33. What is shadow DOM ?
 34. What is custome Pipe ?
 35. How do you handle global errors in Angular?
 36. What are Http Incerceptors ?
 37. How to access the query parameters from the URL ?
-38. What are Rxjs Operators ?
+38. What are Rxjs Operators / Higher order Operators ? (https://levelup.gitconnected.com/higher-order-mapping-operators-62466243820a)
 39. What is Transpiling in Angular?
 40. What is cross site validation ? 
 41. How to write If Else and Then Conditions in template?
@@ -52,6 +52,7 @@
 50. How to set parameter in URL in router and access?
 51. What is Asyn Pipe?
 52. What does ?? In conditional operator?
+53. What is callback Hell ? (https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b#:~:text=The%20calls%20are%20nested%20and,start%20shaping%20a%20real%20hell.&text=Now%20if%20we%20somehow%20manage,easier%20to%20understand%20for%20anyone.)
 
 
 
@@ -116,6 +117,7 @@
 17. What is map, filter, reduce with examples ?
 18. What is Currying ?
 19. Higher order functions vs Currying?
+20. What is prototype?
 
 
 </pre>
