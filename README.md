@@ -53,7 +53,10 @@
 51. What is Asyn Pipe?
 52. What does ?? In conditional operator?
 53. What is callback Hell ? (https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b#:~:text=The%20calls%20are%20nested%20and,start%20shaping%20a%20real%20hell.&text=Now%20if%20we%20somehow%20manage,easier%20to%20understand%20for%20anyone.)
-
+54. What are Bugdegts in Angular.Json?
+55. What are wildcard Routes?
+56. there is 5 methods paralley and update at the end catch data2(ForkJoin)
+57. execution parallel methods - ForkJoin(to call paralled API's),SwitchMap(Used for search operation),ConcatMap(Sequencially API calls),MergeMap)
 
 
 
@@ -83,6 +86,7 @@
 21. Difference between canActive & canActiveChild?
 22. Difference betweeen the ViewChild vs contentChild ?
 23. Difference betweeen the shallow copy vs deep copy ?
+
 
 </pre>
 
@@ -118,7 +122,10 @@
 18. What is Currying ?
 19. Higher order functions vs Currying?
 20. What is prototype?
-
+21. What is Debouncing & Throtelling ?
+22. What is Inheritance in Angular ?
+23. What is Overriding & Super kerword use ?
+24. What is Tree Shaking?
 
 </pre>
 
@@ -134,10 +141,13 @@
    const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
 6. Remove duplicates from the String
    let x = "hellooosssllkkk";
-7. Get the count of the Duplicates in the string?
+7. Get the count of the Duplicates in the string ?
    let x = "hellooosssllkkk"; otp: [o:3,s:3,l:2,k:3]
 8. Program of potato? How many t's print?
-9. Program to find the 2nd most largest number in the Array, without using second array
+9. Program to find the 2nd most largest number in the Array, without using second array ?
+10. let x = [1,2,4,6,2,5,8,6];
+//otp = [no of elements with difference 2]
+
 </pre>
 
 # HTML Questions
