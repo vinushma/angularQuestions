@@ -86,6 +86,8 @@
 21. Difference between canActive & canActiveChild?
 22. Difference betweeen the ViewChild vs contentChild ?
 23. Difference betweeen the shallow copy vs deep copy ?
+24. Difference between ng-if, ng-show and ng-hide ?
+
 
 
 </pre>
