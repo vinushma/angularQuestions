@@ -149,6 +149,7 @@
 9. Program to find the 2nd most largest number in the Array, without using second array ?
 10. let x = [1,2,4,6,2,5,8,6];
 //otp = [no of elements with difference 2]
+11. Fibonacci series ?
 
 </pre>
 
