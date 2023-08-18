@@ -76,7 +76,7 @@
 11. Difference betweeen the Constructor vs OnInit() ?
 12. Difference betweeen the function vs arrow functions() ?
 13. Difference betweeen the document.ready() vs onload() ?
-14. Difference betweeen the <ng-content> vs <ng-template> vs <ng-container> ?
+14. Difference betweeen the ng-content vs ng-template vs ng-container ?
 15. Difference betweeen the Angular JS vs Angular ?
 16. Difference betweeen the Javascript vs Typescript ?
 17. Difference betweeen the AOT vs JIT ?
@@ -87,6 +87,8 @@
 22. Difference betweeen the ViewChild vs contentChild ?
 23. Difference betweeen the shallow copy vs deep copy ?
 24. Difference between ng-if, ng-show and ng-hide ?
+25. Difference between routerLink & href ?
+26. Difference between ngValue & value ?
 
 
 
