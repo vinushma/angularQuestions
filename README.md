@@ -160,6 +160,8 @@
 1. What are HTML5 Features ?
 2. What are Inline & block elements ?
 3. What are sematic elements ?
+4. What is Doc type in HTML?
+5. How to add HTML inside HTML ? - iframe
 </pre>
 
 
