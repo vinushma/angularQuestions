@@ -152,6 +152,7 @@
 10. let x = [1,2,4,6,2,5,8,6];
 //otp = [no of elements with difference 2]
 11. Fibonacci series ?
+12. Reverse a string without using inbuilt functions?
 
 </pre>
 
@@ -170,11 +171,14 @@
 <pre>
 1. CSS Box Model?
 2. CSS Preprocessor, SASS?
-3. What is Flex?
+3. What is Flex vs grid?
 4. Linear gradiant?
 5. what is radiant gradiant?
 6. What is precendance over id & class?
 7. What is div transformation?
+8. What is Opacity ?(transperency)?
+9. What is Z-index?
+10. What are psudeo classes & Psudeo elements? p :first-child & ::first-line
 
 </pre>
 
