@@ -60,6 +60,8 @@
 58. What are Generic in Angular?
 59. what is the use of interface in angular with example?
 60. what is resolver in Angular?
+61. what is use of trackby in *ngfor angular?
+62. what is NGCC?
 
 
 </pre>
