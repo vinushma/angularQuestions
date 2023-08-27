@@ -57,6 +57,7 @@
 55. What are wildcard Routes?
 56. there is 5 methods paralley and update at the end catch data2(ForkJoin)
 57. execution parallel methods - ForkJoin(to call paralled API's),SwitchMap(Used for search operation),ConcatMap(Sequencially API calls),MergeMap)
+58. What are Generic in Angular?
 
 
 
