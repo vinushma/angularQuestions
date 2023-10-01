@@ -51,7 +51,7 @@
 49. What is CROSS issue ?
 50. How to set parameter in URL in router and access?
 51. What is Asyn Pipe?
-52. What does ?? In conditional operator?
+52. What does ?? Nullish Coalescing:?
 53. What is callback Hell ? (https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b#:~:text=The%20calls%20are%20nested%20and,start%20shaping%20a%20real%20hell.&text=Now%20if%20we%20somehow%20manage,easier%20to%20understand%20for%20anyone.)
 54. What are Bugdegts in Angular.Json?
 55. What are wildcard Routes?
@@ -136,6 +136,7 @@
 24. What is Tree Shaking?
 25. What are Falsy values in Javascript?
 26. Difference between event.stopPropogation and event.preventDefault ?
+27. What does ?? Nullish Coalescing:?
 
 </pre>
 
