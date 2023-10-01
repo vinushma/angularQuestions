@@ -137,6 +137,7 @@
 25. What are Falsy values in Javascript?
 26. Difference between event.stopPropogation and event.preventDefault ?
 27. What does ?? Nullish Coalescing:?
+28. Explain non-boolean value coercion to a boolean one in JavaScript -  (!!) operator
 
 </pre>
 
