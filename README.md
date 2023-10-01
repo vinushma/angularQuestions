@@ -134,6 +134,8 @@
 22. What is Inheritance in Angular ?
 23. What is Overriding & Super kerword use ?
 24. What is Tree Shaking?
+25. What are Falsy values in Javascript?
+26. Difference between event.stopPropogation and event.preventDefault ?
 
 </pre>
 
