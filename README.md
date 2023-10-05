@@ -171,6 +171,7 @@
 3. What are sematic elements ?
 4. What is Doc type in HTML?
 5. How to add HTML inside HTML ? - iframe
+6. What is Canves tag?
 </pre>
 
 
