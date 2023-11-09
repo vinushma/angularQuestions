@@ -163,6 +163,7 @@
 11. Fibonacci series ?
 12. Reverse a string without using inbuilt functions?
 13. Leap year check
+  14. String compression ? input: aaabccc - output:a3b1c3
 </pre>
 
 # HTML Questions
