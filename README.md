@@ -139,6 +139,7 @@
 27. What does ?? Nullish Coalescing:?
 28. Explain non-boolean value coercion to a boolean one in JavaScript -  (!!) operator
 
+
 </pre>
 
 # Programming Questions
@@ -161,7 +162,7 @@
 //otp = [no of elements with difference 2]
 11. Fibonacci series ?
 12. Reverse a string without using inbuilt functions?
-
+13. Leap year check
 </pre>
 
 # HTML Questions
