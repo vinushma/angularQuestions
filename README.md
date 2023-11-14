@@ -138,6 +138,7 @@
 26. Difference between event.stopPropogation and event.preventDefault ?
 27. What does ?? Nullish Coalescing:?
 28. Explain non-boolean value coercion to a boolean one in JavaScript -  (!!) operator
+29. ForEach vs Map ?
 
 
 </pre>
