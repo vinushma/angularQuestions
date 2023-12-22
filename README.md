@@ -139,7 +139,7 @@
 27. What does ?? Nullish Coalescing:?
 28. Explain non-boolean value coercion to a boolean one in JavaScript -  (!!) operator
 29. ForEach vs Map ?
-
+30. Event Deligation ?
 
 </pre>
 
@@ -164,7 +164,8 @@
 11. Fibonacci series ?
 12. Reverse a string without using inbuilt functions?
 13. Leap year check
-  14. String compression ? input: aaabccc - output:a3b1c3
+14. String compression ? input: aaabccc - output:a3b1c3
+15. Program input : nested array , output : flat array, without using flat / inbuild functions ?
 </pre>
 
 # HTML Questions
@@ -191,6 +192,8 @@
 8. What is Opacity ?(transperency)?
 9. What is Z-index?
 10. What are psudeo classes & Psudeo elements? p :first-child & ::first-line
+11. Minifying the SASS file ? 
+12. What is SASS ? Features ? 
 
 </pre>
 
