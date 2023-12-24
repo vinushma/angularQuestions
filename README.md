@@ -194,6 +194,7 @@
 10. What are psudeo classes & Psudeo elements? p :first-child & ::first-line
 11. Minifying the SASS file ? 
 12. What is SASS ? Features ? 
+13. What are mixins?
 
 </pre>
 
