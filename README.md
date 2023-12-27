@@ -195,6 +195,14 @@
 11. Minifying the SASS file ? 
 12. What is SASS ? Features ? 
 13. What are mixins?
+14. How to center align a div in just one line in css? - Important
+<div class="center">I am a div</div>
+.center{
+  border : 5px solid;
+  width: 50%;
+  padding:30px;
+  margin: auto;
+}
 
 </pre>
 
