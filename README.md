@@ -210,7 +210,9 @@
   padding:30px;
   margin: auto;
 }
-
+15. How can you only accept jpg and png files using HTML5
+To specify the specific png or jpeg file, we will use the following code.
+<input type="File" name="" accept=".png, .jpg, .jpeg">
 </pre>
 
 
