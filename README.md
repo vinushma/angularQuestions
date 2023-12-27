@@ -107,6 +107,13 @@
 
 </pre>
 
+# TpeScript Questions
+1. What is Tuple?
+2. What is never Type?
+3. How do you define a variable which accept 2 data types? - number | string
+4. What are generic?
+5. What are Enums?
+6. 
 # Javascript Questions
 <pre>
 1. What is Closure?
