@@ -214,6 +214,7 @@
 To specify the specific png or jpeg file, we will use the following code.
 <input type="File" name="" accept=".png, .jpg, .jpeg">
 16. What are Inline-block elements ?
+17. What are media Queries ?
 </pre>
 
 
