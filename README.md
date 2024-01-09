@@ -194,7 +194,7 @@
 3. What is Flex vs grid?
 4. Linear gradiant?
 5. what is radiant gradiant?
-6. What is precendance over id & class?
+6. What is precendance over id & class?(Specificity Rule)
 7. What is div transformation?
 8. What is Opacity ?(transperency)?
 9. What is Z-index?
@@ -213,6 +213,7 @@
 15. How can you only accept jpg and png files using HTML5
 To specify the specific png or jpeg file, we will use the following code.
 <input type="File" name="" accept=".png, .jpg, .jpeg">
+16. What are Inline-block elements ?
 </pre>
 
 
