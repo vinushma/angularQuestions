@@ -147,7 +147,7 @@
 28. Explain non-boolean value coercion to a boolean one in JavaScript -  (!!) operator
 29. ForEach vs Map ?
 30. Event Deligation ?
-31. What is lodashClonedeep ?
+31. What is lodashClonedeep ? lodash deep clone vs json stringify
 </pre>
 
 # Programming Questions
