@@ -93,7 +93,7 @@
 24. Difference between ng-if, ng-show and ng-hide ?
 25. Difference between routerLink & href ?
 26. Difference between ngValue & value ?
-
+27. Difference between Real DOM vs Virtual DOM vs Shadow DOM ?
 
 
 </pre>
@@ -147,7 +147,7 @@
 28. Explain non-boolean value coercion to a boolean one in JavaScript -  (!!) operator
 29. ForEach vs Map ?
 30. Event Deligation ?
-
+31. What is lodashClonedeep ?
 </pre>
 
 # Programming Questions
