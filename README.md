@@ -62,7 +62,8 @@
 60. what is resolver in Angular?
 61. what is use of trackby in *ngfor angular?
 62. what is NGCC?
-
+63. What are Higher Order Components?
+64. What are reusable Components?
 
 </pre>
 # Angular Differences Questions
@@ -216,6 +217,8 @@ To specify the specific png or jpeg file, we will use the following code.
 <input type="File" name="" accept=".png, .jpg, .jpeg">
 16. What are Inline-block elements ?
 17. What are media Queries ?
+18. Difference between Visibility hidden vs Display none ?
+19. How do you align element center of the page ?
 </pre>
 
 
